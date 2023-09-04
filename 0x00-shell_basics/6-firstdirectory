@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -m 586 /tmp/my_first_directory/
